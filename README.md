@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: toolbox
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Welcome
+# ToolNest
 
 这是我专属的工具集锦，整合了日常工作、学习和开发中常用的各类在线工具、脚本资源、平台服务与实用链接。
 

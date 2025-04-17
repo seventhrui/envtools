@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [ToolNest](README.md)
 
 ## Getting Started
 
