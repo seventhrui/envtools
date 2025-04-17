@@ -4,35 +4,25 @@ icon: flutter
 
 # Flutter
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+* install fvm
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+```
+dart pub global activate fvm
+```
 
-### Writing content
+* Env
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+\{%stepper%\}\{%step%\}
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+1. PATH
 
-### Add a new block
+```
+D:\programtools\fvm\default\bin
+```
 
-{% stepper %}
-{% step %}
-### Open the insert block menu
+2. FLUTTER\_STORAGE\_BASE\_URL
 
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
+```
+https://storage.flutter-io.cn
+```
 
