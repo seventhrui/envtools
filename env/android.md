@@ -37,8 +37,10 @@ D:\dev_tools\gradle\gradle-3.3
 
 * note
 
+{% hint style="warning" %}
 ```
 monitor.bat 打开失败报错 jdk版本问题时下载
 [jre](https://www.123pan.com/s/s5cEjv-T3wuh.html)
 将 jre放在 sdk\tools\lib\monitor-x86_64 目录下
 ```
+{% endhint %}
