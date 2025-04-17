@@ -20,9 +20,9 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+这是我专属的工具集锦，整合了日常工作、学习和开发中常用的各类在线工具、脚本资源、平台服务与实用链接。
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+你可以像浏览知识库一样轻松找到你想要的工具，按照不同的分类整理，清晰明了，点击即可跳转使用。
 
 ### Tool
 
