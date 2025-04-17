@@ -7,16 +7,13 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Env
 
-* [Editor](basics/editor.md)
-* [环境变量](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-
-***
-
-* [android](android.md)
-* [Java](java.md)
+* [Java](env/java.md)
+* [android](env/android.md)
+* [Flutter](env/editor.md)
+* [Node](env/markdown.md)
+* [Python](env/images-and-media.md)
+* [Go](env/interactive-blocks.md)
+* [Tomcat](env/openapi.md)
+* [Rust](env/integrations.md)
