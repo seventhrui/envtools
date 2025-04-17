@@ -7,6 +7,10 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
+## TOOL
+
+* [Shadowsocks](tool/shadowsocks.md)
+
 ## Env
 
 * [Java](env/java.md)
@@ -17,7 +21,3 @@
 * [Go](env/interactive-blocks.md)
 * [Tomcat](env/openapi.md)
 * [Rust](env/integrations.md)
-
-## TOOL
-
-* [Shadowsocks](tool/shadowsocks.md)
