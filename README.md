@@ -26,7 +26,7 @@ layout:
 
 ## Open Platform
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>HUAWEI</td><td><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/">https://developer.huawei.com/consumer/cn/console#/serviceCards/</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>HUAWEI</td><td><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/">https://developer.huawei.com/consumer/cn/console#/serviceCards/</a></td><td><a href=".gitbook/assets/huawei.ico">huawei.ico</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ## Repository
 
