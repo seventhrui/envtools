@@ -24,6 +24,8 @@ layout:
 
 你可以像浏览知识库一样轻松找到你想要的工具，按照不同的分类整理，清晰明了，点击即可跳转使用。
 
+R
+
 ### Tool
 
 <table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Shadowsocks</td><td><a href="tool/shadowsocks.md">shadowsocks.md</a></td><td><a href="tool/shadowsocks.md">shadowsocks.md</a></td><td><a href="tool/shadowsocks.md">shadowsocks.md</a></td></tr></tbody></table>
