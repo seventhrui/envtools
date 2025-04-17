@@ -4,15 +4,16 @@ icon: node
 
 # Node
 
-* android
+* NODE\_PATH
 
 ```
-ANDROID_HOME:D:\programtools\android\sdk
-CC:D:\programtools\android\sdk\ndk\25.1.8937393\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe
+D:\programtools\nodejs\node_modules
+```
 
-GRADLE_HOME:D:\dev_tools\gradle\gradle-3.3
+* PATH
 
-path:%ANDROID_HOME%\platform-tools
-path:%ANDROID_HOME%\tools
-path:%GRADLE_HOME%\bin
+```
+D:\programtools\nodejs\
+D:\programtools\nodejs\node_global
+D:\programtools\nodejs\node_global\bin
 ```

@@ -4,12 +4,20 @@ icon: cat
 
 # Tomcat
 
-You can sync GitBook pages with an OpenAPI or Swagger file or a URL to include auto-generated API methods in your documentation.
+* CATALINA\_BASE
 
-### OpenAPI block
+```
+C:\tomcat
+```
 
-GitBook's OpenAPI block is powered by [Scalar](https://scalar.com/), so you can test your APIs directly from your docs.
+* CATALINA\_HOME
 
-{% openapi src="https://petstore3.swagger.io/api/v3/openapi.json" path="/pet" method="post" %}
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
-{% endopenapi %}
+```
+C:\tomcat
+```
+
+* PATH
+
+```
+%CATALINA_HOME%\lib;%CATALINA_HOME%\bin
+```
