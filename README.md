@@ -24,6 +24,10 @@ layout:
 
 你可以像浏览知识库一样轻松找到你想要的工具，按照不同的分类整理，清晰明了，点击即可跳转使用。
 
+## Open Platform
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>HUAWEI</td><td><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/">https://developer.huawei.com/consumer/cn/console#/serviceCards/</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+
 ## Repository
 
 <table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Maven</td><td><a href="https://mvnrepository.com/">https://mvnrepository.com/</a></td><td><a href="https://mvnrepository.com/">https://mvnrepository.com/</a></td></tr><tr><td>npm</td><td><a href="https://www.npmjs.com/">https://www.npmjs.com/</a></td><td><a href="https://www.npmjs.com/">https://www.npmjs.com/</a></td></tr><tr><td>Go</td><td><a href="https://pkg.go.dev/">https://pkg.go.dev/</a></td><td><a href="https://pkg.go.dev/">https://pkg.go.dev/</a></td></tr><tr><td>Python</td><td><a href="https://pypi.org/">https://pypi.org/</a></td><td><a href="https://pypi.org/">https://pypi.org/</a></td></tr><tr><td>Pub</td><td><a href="https://pub.dev/">https://pub.dev/</a></td><td><a href="https://pub.dev/">https://pub.dev/</a></td></tr><tr><td>JitPack</td><td><a href="https://www.jitpack.io/">https://www.jitpack.io/</a></td><td><a href="https://www.jitpack.io/">https://www.jitpack.io/</a></td></tr><tr><td>Rust</td><td><a href="https://docs.rs/">https://docs.rs/</a></td><td><a href="https://docs.rs/">https://docs.rs/</a></td></tr></tbody></table>
