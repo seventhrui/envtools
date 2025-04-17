@@ -26,7 +26,7 @@ layout:
 
 ## Open Platform
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>HUAWEI</td><td><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/">https://developer.huawei.com/consumer/cn/console#/serviceCards/</a></td><td><a href=".gitbook/assets/huawei.ico">huawei.ico</a></td></tr><tr><td>XIAOMI</td><td><a href="https://dev.mi.com/myitems/0/0">https://dev.mi.com/myitems/0/0</a></td><td><a href=".gitbook/assets/xiaomi.png">xiaomi.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>HUAWEI</td><td><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/">https://developer.huawei.com/consumer/cn/console#/serviceCards/</a></td><td><a href=".gitbook/assets/hw.png">hw.png</a></td></tr><tr><td>XIAOMI</td><td><a href="https://dev.mi.com/myitems/0/0">https://dev.mi.com/myitems/0/0</a></td><td><a href=".gitbook/assets/mi.png">mi.png</a></td></tr><tr><td>OPPO</td><td><a href="https://open.oppomobile.com/user/admin#/resource/list">https://open.oppomobile.com/user/admin#/resource/list</a></td><td><a href=".gitbook/assets/op.png">op.png</a></td></tr></tbody></table>
 
 ## Repository
 
