@@ -26,7 +26,17 @@ layout:
 
 ## Open Platform
 
+Manufacturer
+
+***
+
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>HUAWEI</td><td><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/">https://developer.huawei.com/consumer/cn/console#/serviceCards/</a></td><td><a href=".gitbook/assets/hw.png">hw.png</a></td></tr><tr><td>HONOR</td><td></td><td><a href=".gitbook/assets/honor.png">honor.png</a></td></tr><tr><td>XIAOMI</td><td><a href="https://dev.mi.com/myitems/0/0">https://dev.mi.com/myitems/0/0</a></td><td><a href=".gitbook/assets/mi.png">mi.png</a></td></tr><tr><td>OPPO</td><td><a href="https://open.oppomobile.com/user/admin#/resource/list">https://open.oppomobile.com/user/admin#/resource/list</a></td><td><a href=".gitbook/assets/op.png">op.png</a></td></tr><tr><td>VIVO</td><td></td><td><a href=".gitbook/assets/vi.png">vi.png</a></td></tr><tr><td>MEIZU</td><td></td><td><a href=".gitbook/assets/meizu.png">meizu.png</a></td></tr><tr><td>Samsung</td><td><a href="https://seller.samsungapps.com/login/signIn.as?returnURL=%2Fmain%2FsellerMain.as">https://seller.samsungapps.com/login/signIn.as?returnURL=%2Fmain%2FsellerMain.as</a></td><td><a href=".gitbook/assets/sx.png">sx.png</a></td></tr></tbody></table>
+
+Open
+
+***
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>QQ</td></tr><tr><td>Wechat</td></tr><tr><td>Ali</td></tr><tr><td>Baidu</td></tr><tr><td>AMAP</td></tr></tbody></table>
 
 ## Repository
 
