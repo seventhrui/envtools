@@ -6,6 +6,10 @@
 
 * [Shadowsocks](tool/shadowsocks.md)
 
+***
+
+* [gost](gost.md)
+
 ## Env
 
 * [Java](env/java.md)
