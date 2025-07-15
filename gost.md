@@ -9,8 +9,8 @@ icon: plane-departure
 安装服务
 
 ```
-wget https://github.com/go-gost/gost/releases/download/v3.0.0/gost_3.0.0_linux_amd64v3.tar.gz
-tar -zxvf gost_3.0.0_linux_amd64v3.tar.gz
+wget https://github.com/go-gost/gost/releases/download/v3.1.0/gost_3.1.0_linux_amd64v3.tar.gz
+tar -zxvf gost_3.1.0_linux_amd64v3.tar.gz
 mv gost /usr/bin/gost
 chmod +x /usr/bin/gost
 ```
@@ -42,6 +42,40 @@ services:
     listener:
       type: tcp
 
+```
+{% endstep %}
+
+{% step %}
+### 配置系统服务
+
+3.1. 新建`/etc/systemd/system/gost.service`脚本：
+
+```
+
+[Unit]
+Description=GO Simple Tunnel
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/gost
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+
+3.2. 设置为开机启动
+
+```
+systemctl enable gost
+```
+
+3.3. gost启动服务
+
+```
+systemctl start gost
 ```
 {% endstep %}
 
@@ -80,6 +114,7 @@ proxy-groups:
     type: select
     proxies:
       - GameProxy
+      
 ```
 {% endstep %}
 {% endstepper %}
