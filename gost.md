@@ -51,7 +51,6 @@ services:
 3.1. 新建`/etc/systemd/system/gost.service`脚本：
 
 ```
-
 [Unit]
 Description=GO Simple Tunnel
 After=network.target
