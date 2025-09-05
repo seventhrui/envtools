@@ -118,10 +118,10 @@ proxy-groups:
 {% endstep %}
 
 {% step %}
-### 查看网络占用
+### 查看端口占用
 
 ```
-sudo nethogs
+sudo ss -tulnp | grep :2048
 ```
 {% endstep %}
 {% endstepper %}
