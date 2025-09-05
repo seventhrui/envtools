@@ -116,4 +116,12 @@ proxy-groups:
       
 ```
 {% endstep %}
+
+{% step %}
+### 查看网络占用
+
+```
+sudo nethogs
+```
+{% endstep %}
 {% endstepper %}
