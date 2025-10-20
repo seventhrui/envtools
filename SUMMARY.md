@@ -20,6 +20,7 @@
 * [Go](env/interactive-blocks.md)
 * [Tomcat](env/openapi.md)
 * [Rust](env/integrations.md)
+* [Docker](env/docker.md)
 
 ## Mobile
 
