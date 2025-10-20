@@ -2,20 +2,6 @@
 icon: toolbox
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # ToolNest
@@ -52,6 +38,6 @@ Open
 
 ### Env
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Java</td><td><a href="env/java.md">java.md</a></td><td></td><td></td><td><a href="env/java.md">java.md</a></td></tr><tr><td>android</td><td><a href="env/android.md">android.md</a></td><td></td><td></td><td><a href="env/android.md">android.md</a></td></tr><tr><td>Flutter</td><td><a href="env/editor.md">editor.md</a></td><td></td><td></td><td><a href="env/editor.md">editor.md</a></td></tr><tr><td>Node</td><td><a href="env/markdown.md">markdown.md</a></td><td></td><td></td><td><a href="env/markdown.md">markdown.md</a></td></tr><tr><td>Anaconda</td><td><a href="env/images-and-media.md">images-and-media.md</a></td><td></td><td></td><td><a href="env/images-and-media.md">images-and-media.md</a></td></tr><tr><td>Go</td><td><a href="env/interactive-blocks.md">interactive-blocks.md</a></td><td></td><td></td><td><a href="env/interactive-blocks.md">interactive-blocks.md</a></td></tr><tr><td>tomcat</td><td><a href="env/openapi.md">openapi.md</a></td><td></td><td></td><td><a href="env/openapi.md">openapi.md</a></td></tr><tr><td>Rust</td><td><a href="env/integrations.md">integrations.md</a></td><td></td><td></td><td><a href="env/integrations.md">integrations.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Java</td><td><a href="env/java.md">java.md</a></td><td></td><td></td><td><a href="env/java.md">java.md</a></td></tr><tr><td>android</td><td><a href="env/android.md">android.md</a></td><td></td><td></td><td><a href="env/android.md">android.md</a></td></tr><tr><td>Flutter</td><td><a href="env/editor.md">editor.md</a></td><td></td><td></td><td><a href="env/editor.md">editor.md</a></td></tr><tr><td>Node</td><td><a href="env/markdown.md">markdown.md</a></td><td></td><td></td><td><a href="env/markdown.md">markdown.md</a></td></tr><tr><td>Anaconda</td><td><a href="env/images-and-media.md">images-and-media.md</a></td><td></td><td></td><td><a href="env/images-and-media.md">images-and-media.md</a></td></tr><tr><td>Go</td><td><a href="env/interactive-blocks.md">interactive-blocks.md</a></td><td></td><td></td><td><a href="env/interactive-blocks.md">interactive-blocks.md</a></td></tr><tr><td>tomcat</td><td><a href="env/openapi.md">openapi.md</a></td><td></td><td></td><td><a href="env/openapi.md">openapi.md</a></td></tr><tr><td>Rust</td><td><a href="env/integrations.md">integrations.md</a></td><td></td><td></td><td><a href="env/integrations.md">integrations.md</a></td></tr><tr><td>Docker</td><td><a href="env/docker.md">docker.md</a></td><td></td><td></td><td></td></tr></tbody></table>
 
 [Next - TOOLShadowsocks](https://app.gitbook.com/o/L41Wgspp7C6yLv5v5Uo2/s/0mJr8wLZv8SmsTP1XQsI/~/changes/45/tool/shadowsocks)
